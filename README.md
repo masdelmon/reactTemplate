@@ -1,2 +1,0 @@
-# reactTemplate
-Created with CodeSandbox
